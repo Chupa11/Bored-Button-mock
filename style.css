@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(255, 255, 255);
+
+}
+.container{
+    text-align: center;
+    width: 400px;
+    margin: auto;
+    margin-top: 250px;
+    background-color: rgb(208, 208, 208);
+    border-radius: 40px;
+    padding-bottom: 20px;
+}
+.container h2{
+    font-family: cursive;
+    font-size: 35px;
+}
+.container h1{
+    font-family: cursive;
+    font-size: 50px;
+}
+
+footer{
+    background-color: rgb(56, 56, 56);
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    height: 120px;
+}
+footer h4{
+    color: rgb(205, 205, 205);
+}
+
+.container button{
+    background-color: rgb(253, 83, 83);
+    width: 120px;
+    height: 50px;
+    border: none;
+    border-radius: 40px;
+    font-family: cursive;
+}
+.container button:hover{
+    cursor: pointer;
+    background-color: rgb(252, 64, 64);
+}
